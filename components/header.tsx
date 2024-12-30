@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { ModeToggle } from '@/components/mode-toggle'
+import { ModeToggle } from './mode-toggle'
 import { Button } from './ui/button'
 import { Menu } from 'lucide-react'
 
